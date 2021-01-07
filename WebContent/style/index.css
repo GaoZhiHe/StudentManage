@@ -1,0 +1,30 @@
+
+#ad img{
+    width: 1500px;
+    height: 400px;
+    font-size:36px;
+    color:red;
+    float:righ;
+}
+#ai img{
+	height: 36px;
+    line-height: 36px;
+    float: right;
+}
+#user{
+	height: 36px;
+	 background: white;
+	 margin:10px auto;
+}
+.option{
+	height: 30px;
+	width:900px;
+    line-height: 50px;
+    margin:20px auto;
+}
+
+.option a{
+    font-size:18px;
+    color:#808080;
+    padding:0 10px;
+}
